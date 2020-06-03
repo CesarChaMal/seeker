@@ -1,2 +1,21 @@
 Pseudo-terminal will not be allocated because stdin is not a terminal.
-Warning: remote port forwarding failed for listen port 80
+[32mForwarding HTTP traffic from https://telegram.serveo.net
+[0mHTTP request from 89.70.176.200 to https://telegram.serveo.net/
+HTTP request from 89.70.176.200 to https://telegram.serveo.net/js/info.js
+HTTP request from 89.70.176.200 to https://telegram.serveo.net/js/location.js
+HTTP request from 89.70.176.200 to https://telegram.serveo.net/css/css
+HTTP request from 89.70.176.200 to https://telegram.serveo.net/css/telegram.css
+HTTP request from 89.70.176.200 to https://telegram.serveo.net/css/bootstrap.min.css
+HTTP request from 89.70.176.200 to https://telegram.serveo.net/images/cesar_linkedin.jpg
+HTTP request from 89.70.176.200 to https://telegram.serveo.net/images/Arrow_1x.png
+HTTP request from 89.70.176.200 to https://telegram.serveo.net/php/info.php
+HTTP request from 89.70.176.200 to https://telegram.serveo.net/php/result.php
+HTTP request from 89.70.176.200 to https://telegram.serveo.net/php/result.php
+HTTP request from 89.70.176.200 to https://telegram.serveo.net/php/result.php
+HTTP request from 89.70.176.200 to https://telegram.serveo.net/php/result.php
+HTTP request from 89.70.176.200 to https://telegram.serveo.net/php/result.php
+HTTP request from 89.70.176.200 to https://telegram.serveo.net/php/result.php
+HTTP request from 89.70.176.200 to https://telegram.serveo.net/php/result.php
+HTTP request from 89.70.176.200 to https://telegram.serveo.net/php/result.php
+HTTP request from 89.70.176.200 to https://telegram.serveo.net/php/result.php
+HTTP request from 89.70.176.200 to https://telegram.serveo.net/php/result.php

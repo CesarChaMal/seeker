@@ -1,1 +1,2 @@
 OS,Platform,CPU Cores,RAM,GPU Vendor,GPU,Resolution,Browser,IP Address,Continent,Country,Region,City,Organisation,ISP,Latitude,Longitude,Accuracy,Altitude,Direction,Speed
+Win64,Win32,8,8,Google Inc.,ANGLE (Intel(R) HD Graphics 4600 Direct3D11 vs_5_0 ps_5_0),1600x900,Chrome/83.0.4103.61,89.70.176.200,Europe,Poland,Lower Silesian Voivodeship,Boleslawiec,Liberty Global Operations B.V.,Liberty Global Operations B.V.,51.111177700000006 deg,17.0587166 deg,40 m,Not Available,Not Available,Not Available
